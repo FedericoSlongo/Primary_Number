@@ -1,0 +1,7 @@
+C:\Users\fslongo\source\repos\Numeri Primi\Numeri Primi\obj\Debug\Numeri Primi.csproj.AssemblyReference.cache
+C:\Users\fslongo\source\repos\Numeri Primi\Numeri Primi\obj\Debug\Numeri Primi.csproj.CoreCompileInputs.cache
+C:\Users\fslongo\source\repos\Numeri Primi\Numeri Primi\bin\Debug\Numeri Primi.exe.config
+C:\Users\fslongo\source\repos\Numeri Primi\Numeri Primi\bin\Debug\Numeri Primi.exe
+C:\Users\fslongo\source\repos\Numeri Primi\Numeri Primi\bin\Debug\Numeri Primi.pdb
+C:\Users\fslongo\source\repos\Numeri Primi\Numeri Primi\obj\Debug\Numeri Primi.exe
+C:\Users\fslongo\source\repos\Numeri Primi\Numeri Primi\obj\Debug\Numeri Primi.pdb
